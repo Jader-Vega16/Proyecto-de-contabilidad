@@ -1,0 +1,12 @@
+/home/scott/Projects/Contabilidad_General/Contabilidad_General/bin/Debug/Contabilidad_General.exe
+/home/scott/Projects/Contabilidad_General/Contabilidad_General/bin/Debug/Contabilidad_General.pdb
+/home/scott/Projects/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.csproj.CoreCompileInputs.cache
+/home/scott/Projects/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.exe
+/home/scott/Projects/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.pdb
+/home/scott/Projects/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.csprojAssemblyReference.cache
+/home/scott/Descargas/Contabilidad_General/Contabilidad_General/bin/Debug/Contabilidad_General.exe
+/home/scott/Descargas/Contabilidad_General/Contabilidad_General/bin/Debug/Contabilidad_General.pdb
+/home/scott/Descargas/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.csprojAssemblyReference.cache
+/home/scott/Descargas/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.csproj.CoreCompileInputs.cache
+/home/scott/Descargas/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.exe
+/home/scott/Descargas/Contabilidad_General/Contabilidad_General/obj/x86/Debug/Contabilidad_General.pdb
