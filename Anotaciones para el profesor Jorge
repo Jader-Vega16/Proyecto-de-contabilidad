@@ -1,0 +1,6 @@
+-El documento de tipo dump ya  tiene el esquema incluido por lo cual no sera necesario agregar uno
+-La interfaz de inicio de sesion del usuario, no esta configurada, por lo tanto solo
+ hay que dar click en el boton de acceder.
+-Si sucede un problema en la conexion de la base de datos, revisar la clase de conexion en donde
+se encuentra la contraseña, esto debido a que cuando configure mysql deje la contraseña 
+como 'laba123' mientras que los demas la tienen como 'laba1234'
